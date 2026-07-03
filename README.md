@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="CSM Official AI Assistant Banner" width="100%">
 </p>
 
-<h1 align="center">🚗 CSM Official AI Assistant</h1>
+<h1 align="center"> CSM Official AI Assistant</h1>
 
 <p align="center">
 Enterprise AI Customer Support Platform for Capital Smart Motors
